@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include <Block_private.h>
+#include <Block.h>
 
 
 int main(int argc, char *argv[]) {
